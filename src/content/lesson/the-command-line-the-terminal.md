@@ -45,7 +45,7 @@ The last thing we have to add is the "argument." In this case, the "argument" wi
 
 Your computer has files, directories and applications.  Your command line is able to deal with all three of them.  Use commands to move within the files and directories (like the `cd` command).  Every application that you install comes with a set of commands that become available at the moment you install the app (like the GIT command).
 
-## Here is how the File System looks in a Visual Interface vs the Terminal:
+## Here is how the File System looks in a Visual Interface vs The Terminal:
 
 ![the command line the terminal](../../assets/images/182ea93c-9d7d-4c8d-8153-9c1756d8cd1f.png)
 
