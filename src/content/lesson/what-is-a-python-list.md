@@ -57,7 +57,7 @@ mySet = {"Apple", "Orange", "Donkey"} # This is a "set" - a more limited, unorde
 
 To access a specific element in a list, you need an `index`.  We call `index` the integer value that represents the position of the element you want to access/get/retrieve.
 
-The index always must start at zero (0).  That means that an List of 2 items can have index=0 or index=1.  Trying to get the 2nd position will return "undefined" because it will mean that we are trying to access the third element (which does not exist).  For example, to get any items in the list you can do the following:
+The index always must start at zero (0).  That means that an List of 2 items can have index=0 or index=1.  Trying to get the 2nd position will return "undefined" (here) because it will mean that we are trying to access the third element (which does not exist).  For example, to get any items in the list you can do the following:
 
 ```python
 
